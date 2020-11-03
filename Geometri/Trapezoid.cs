@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Geometriii
 {
-    class Trapezoid : Square
+    class Trapezoid : Polygon
     {
         public double b { get; set; }
         public double c { get; set; }

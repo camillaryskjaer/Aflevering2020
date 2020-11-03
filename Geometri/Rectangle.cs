@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Geometriii
 {
-    class Rectangle : Square
+    class Rectangle : Polygon
     {
         public double b { get; set; }
 

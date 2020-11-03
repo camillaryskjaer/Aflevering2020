@@ -6,38 +6,27 @@ using System.Threading.Tasks;
 
 namespace Geometriii
 {
-    public class Square
+    class Square : Polygon
     {
-        protected string name { get; set; }
-        protected double a;
 
-        public double A
-        {
-            get { return a; }
-            private set { a = value; }
-        }
-
-        public Square(double A)
+        public Square(double A) : base(A)
         {
             name = "square";
             a = A;
         }
 
-        public virtual double CalculateCircumference()
+        public override double CalculateCircumference()
         {
-            return (a * 4);
+            double cirmumference = a * 4;
+
+            return cirmumference;
         }
 
-        public virtual double CalculateArea()
+        public override double CalculateArea()
         {
-            return (a * a);
+            double area = a * a;
+
+            return area;
         }
-
-        public override string ToString()
-        {
-
-            return name+"\nArea: " + CalculateArea() + "\nCircumference: " + CalculateCircumference()+"\n";
-        }
-
     }
 }

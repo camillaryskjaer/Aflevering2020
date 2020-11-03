@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Geometriii
 {
-    class Parallelogram : Square
+    class Parallelogram : Polygon
     {
         public double b { get; set; }
 
