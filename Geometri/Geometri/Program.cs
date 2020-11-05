@@ -16,6 +16,8 @@ namespace Geometriii
             //Then I removed the square class as a super class because I thought only having the polygon as a superclass made more sense.
 
             //Initilizing the the different objects(Polygons)
+           
+            //Flot at du husker at bruge polymorfi
             Polygon square = new Square(10);
             Polygon rectangle = new Rectangle(10, 5);
             Polygon parallelogram = new Parallelogram(10, 5);
