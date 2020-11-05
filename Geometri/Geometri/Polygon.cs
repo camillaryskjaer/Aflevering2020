@@ -14,6 +14,7 @@ namespace Geometriii
         public double A
         {
             get { return a; }
+            //Flot
             private set { a = value; }
         }
 
@@ -23,6 +24,9 @@ namespace Geometriii
             a = A;
         }
 
+        //Her er det super vigtigt at du får dokumenteret din metode fordi du bryder med regnereglerne.
+        //Jeg forstår godt at du tænker at lave en default metode, men hvad tror du der sker, hvis man glemmer at overskrive metoden ned i rectangle?
+        //Her forudsætter du at alle sider altid er lige lange
         public virtual double CalculateCircumference()
         {
             return (a * 4);
@@ -33,6 +37,7 @@ namespace Geometriii
             return (a * a);
         }
 
+        //Fint med overskrivelse af ToString
         public override string ToString()
         {
 
