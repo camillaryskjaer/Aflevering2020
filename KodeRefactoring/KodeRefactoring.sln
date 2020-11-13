@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodeRefactoring", "KodeRefactoring.csproj", "{02A57939-1059-4FA6-898B-A5878DA57C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A57939-1059-4FA6-898B-A5878DA57C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A57939-1059-4FA6-898B-A5878DA57C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A57939-1059-4FA6-898B-A5878DA57C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A57939-1059-4FA6-898B-A5878DA57C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A96537ED-4456-457F-8700-249F7E4C4069}
+	EndGlobalSection
+EndGlobal
