@@ -1,0 +1,11 @@
+C:\Users\mads4\source\repos\Baggage\bin\Debug\netcoreapp3.1\Baggage.exe
+C:\Users\mads4\source\repos\Baggage\bin\Debug\netcoreapp3.1\Baggage.deps.json
+C:\Users\mads4\source\repos\Baggage\bin\Debug\netcoreapp3.1\Baggage.runtimeconfig.json
+C:\Users\mads4\source\repos\Baggage\bin\Debug\netcoreapp3.1\Baggage.runtimeconfig.dev.json
+C:\Users\mads4\source\repos\Baggage\bin\Debug\netcoreapp3.1\Baggage.dll
+C:\Users\mads4\source\repos\Baggage\bin\Debug\netcoreapp3.1\Baggage.pdb
+C:\Users\mads4\source\repos\Baggage\obj\Debug\netcoreapp3.1\Baggage.csprojAssemblyReference.cache
+C:\Users\mads4\source\repos\Baggage\obj\Debug\netcoreapp3.1\Baggage.AssemblyInfoInputs.cache
+C:\Users\mads4\source\repos\Baggage\obj\Debug\netcoreapp3.1\Baggage.AssemblyInfo.cs
+C:\Users\mads4\source\repos\Baggage\obj\Debug\netcoreapp3.1\Baggage.dll
+C:\Users\mads4\source\repos\Baggage\obj\Debug\netcoreapp3.1\Baggage.pdb
