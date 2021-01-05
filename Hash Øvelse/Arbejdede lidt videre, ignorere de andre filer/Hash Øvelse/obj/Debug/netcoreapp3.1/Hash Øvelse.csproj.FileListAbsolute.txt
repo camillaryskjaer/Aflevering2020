@@ -1,0 +1,11 @@
+C:\Users\mads4\source\repos\Hash Øvelse\bin\Debug\netcoreapp3.1\Hash Øvelse.exe
+C:\Users\mads4\source\repos\Hash Øvelse\bin\Debug\netcoreapp3.1\Hash Øvelse.deps.json
+C:\Users\mads4\source\repos\Hash Øvelse\bin\Debug\netcoreapp3.1\Hash Øvelse.runtimeconfig.json
+C:\Users\mads4\source\repos\Hash Øvelse\bin\Debug\netcoreapp3.1\Hash Øvelse.runtimeconfig.dev.json
+C:\Users\mads4\source\repos\Hash Øvelse\bin\Debug\netcoreapp3.1\Hash Øvelse.dll
+C:\Users\mads4\source\repos\Hash Øvelse\bin\Debug\netcoreapp3.1\Hash Øvelse.pdb
+C:\Users\mads4\source\repos\Hash Øvelse\obj\Debug\netcoreapp3.1\Hash Øvelse.csprojAssemblyReference.cache
+C:\Users\mads4\source\repos\Hash Øvelse\obj\Debug\netcoreapp3.1\Hash Øvelse.AssemblyInfoInputs.cache
+C:\Users\mads4\source\repos\Hash Øvelse\obj\Debug\netcoreapp3.1\Hash Øvelse.AssemblyInfo.cs
+C:\Users\mads4\source\repos\Hash Øvelse\obj\Debug\netcoreapp3.1\Hash Øvelse.dll
+C:\Users\mads4\source\repos\Hash Øvelse\obj\Debug\netcoreapp3.1\Hash Øvelse.pdb
