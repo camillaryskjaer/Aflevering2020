@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace MyBankeriii
 {
+    
+    //Hvorfor er dette objekt ikke abstrakt?
     public class Card
     {
         //variblerne som går igen på alle kortene (ud over expirationDate men har valgt at lave et workaround rundt om det.
@@ -102,6 +104,7 @@ namespace MyBankeriii
 
         }
 
+        //Fint med override af toString
         //To String method med alt informationen på kortene, og hvis kortets expiration date er over år 3000, så udskriver den
         //"No expiration date".
         public override string ToString()
